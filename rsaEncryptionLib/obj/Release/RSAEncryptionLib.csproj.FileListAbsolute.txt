@@ -1,0 +1,8 @@
+E:\Work\СК547\RSAExtensions\z\RSAEncryptionLib\bin\Release\RSAEncryptionLib.dll
+E:\Work\СК547\RSAExtensions\z\RSAEncryptionLib\bin\Release\RSAEncryptionLib.pdb
+E:\Work\СК547\RSAExtensions\z\RSAEncryptionLib\obj\Release\RSAEncryptionLib.dll
+E:\Work\СК547\RSAExtensions\z\RSAEncryptionLib\obj\Release\RSAEncryptionLib.pdb
+E:\Work\СК547\zadanie2\RSAEncryptionLib\bin\Release\RSAEncryptionLib.dll
+E:\Work\СК547\zadanie2\RSAEncryptionLib\bin\Release\RSAEncryptionLib.pdb
+E:\Work\СК547\zadanie2\RSAEncryptionLib\obj\Release\RSAEncryptionLib.dll
+E:\Work\СК547\zadanie2\RSAEncryptionLib\obj\Release\RSAEncryptionLib.pdb

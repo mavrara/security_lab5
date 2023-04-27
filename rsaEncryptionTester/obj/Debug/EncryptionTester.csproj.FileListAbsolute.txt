@@ -1,0 +1,36 @@
+E:\Work\АК1422\source\RSAEncryptionTester\bin\Debug\RSAEncryptionTester.exe
+E:\Work\АК1422\source\RSAEncryptionTester\bin\Debug\RSAEncryptionTester.pdb
+E:\Work\АК1422\source\RSAEncryptionTester\bin\Debug\RSAEncryptionLib.dll
+E:\Work\АК1422\source\RSAEncryptionTester\bin\Debug\RSAEncryptionLib.pdb
+E:\Work\АК1422\source\RSAEncryptionTester\obj\Debug\EncryptionTester.csprojResolveAssemblyReference.cache
+E:\Work\АК1422\source\RSAEncryptionTester\obj\Debug\RSAEncryptionTester.MainForm.resources
+E:\Work\АК1422\source\RSAEncryptionTester\obj\Debug\RSAEncryptionTester.Properties.Resources.resources
+E:\Work\АК1422\source\RSAEncryptionTester\obj\Debug\EncryptionTester.csproj.GenerateResource.Cache
+E:\Work\АК1422\source\RSAEncryptionTester\obj\Debug\RSAEncryptionTester.exe
+E:\Work\АК1422\source\RSAEncryptionTester\obj\Debug\RSAEncryptionTester.pdb
+E:\Nauka5\NEWEST\id-1715-716\p3\source\RSAEncryptionTester\bin\Debug\RSAEncryptionTester.exe.config
+E:\Nauka5\NEWEST\id-1715-716\p3\source\RSAEncryptionTester\bin\Debug\RSAEncryptionTester.exe
+E:\Nauka5\NEWEST\id-1715-716\p3\source\RSAEncryptionTester\bin\Debug\RSAEncryptionTester.pdb
+E:\Nauka5\NEWEST\id-1715-716\p3\source\RSAEncryptionTester\bin\Debug\RSAEncryptionLib.dll
+E:\Nauka5\NEWEST\id-1715-716\p3\source\RSAEncryptionTester\bin\Debug\RSAEncryptionLib.pdb
+E:\Nauka5\NEWEST\id-1715-716\p3\source\RSAEncryptionTester\obj\Debug\EncryptionTester.csprojAssemblyReference.cache
+E:\Nauka5\NEWEST\id-1715-716\p3\source\RSAEncryptionTester\obj\Debug\RSAEncryptionTester.MainForm.resources
+E:\Nauka5\NEWEST\id-1715-716\p3\source\RSAEncryptionTester\obj\Debug\RSAEncryptionTester.Properties.Resources.resources
+E:\Nauka5\NEWEST\id-1715-716\p3\source\RSAEncryptionTester\obj\Debug\EncryptionTester.csproj.GenerateResource.cache
+E:\Nauka5\NEWEST\id-1715-716\p3\source\RSAEncryptionTester\obj\Debug\EncryptionTester.csproj.CoreCompileInputs.cache
+E:\Nauka5\NEWEST\id-1715-716\p3\source\RSAEncryptionTester\obj\Debug\EncryptionTester.csproj.CopyComplete
+E:\Nauka5\NEWEST\id-1715-716\p3\source\RSAEncryptionTester\obj\Debug\RSAEncryptionTester.exe
+E:\Nauka5\NEWEST\id-1715-716\p3\source\RSAEncryptionTester\obj\Debug\RSAEncryptionTester.pdb
+C:\Users\Yevhe\OneDrive\Desktop\Навчання\Семестр VI\Системи безпеки\Заказ-полный-id-1715-716 (1)\p3\source\RSAEncryptionTester\bin\Debug\RSAEncryptionTester.exe.config
+C:\Users\Yevhe\OneDrive\Desktop\Навчання\Семестр VI\Системи безпеки\Заказ-полный-id-1715-716 (1)\p3\source\RSAEncryptionTester\bin\Debug\RSAEncryptionTester.exe
+C:\Users\Yevhe\OneDrive\Desktop\Навчання\Семестр VI\Системи безпеки\Заказ-полный-id-1715-716 (1)\p3\source\RSAEncryptionTester\bin\Debug\RSAEncryptionTester.pdb
+C:\Users\Yevhe\OneDrive\Desktop\Навчання\Семестр VI\Системи безпеки\Заказ-полный-id-1715-716 (1)\p3\source\RSAEncryptionTester\bin\Debug\RSAEncryptionLib.dll
+C:\Users\Yevhe\OneDrive\Desktop\Навчання\Семестр VI\Системи безпеки\Заказ-полный-id-1715-716 (1)\p3\source\RSAEncryptionTester\bin\Debug\RSAEncryptionLib.pdb
+C:\Users\Yevhe\OneDrive\Desktop\Навчання\Семестр VI\Системи безпеки\Заказ-полный-id-1715-716 (1)\p3\source\RSAEncryptionTester\obj\Debug\EncryptionTester.csproj.AssemblyReference.cache
+C:\Users\Yevhe\OneDrive\Desktop\Навчання\Семестр VI\Системи безпеки\Заказ-полный-id-1715-716 (1)\p3\source\RSAEncryptionTester\obj\Debug\RSAEncryptionTester.MainForm.resources
+C:\Users\Yevhe\OneDrive\Desktop\Навчання\Семестр VI\Системи безпеки\Заказ-полный-id-1715-716 (1)\p3\source\RSAEncryptionTester\obj\Debug\RSAEncryptionTester.Properties.Resources.resources
+C:\Users\Yevhe\OneDrive\Desktop\Навчання\Семестр VI\Системи безпеки\Заказ-полный-id-1715-716 (1)\p3\source\RSAEncryptionTester\obj\Debug\EncryptionTester.csproj.GenerateResource.cache
+C:\Users\Yevhe\OneDrive\Desktop\Навчання\Семестр VI\Системи безпеки\Заказ-полный-id-1715-716 (1)\p3\source\RSAEncryptionTester\obj\Debug\EncryptionTester.csproj.CoreCompileInputs.cache
+C:\Users\Yevhe\OneDrive\Desktop\Навчання\Семестр VI\Системи безпеки\Заказ-полный-id-1715-716 (1)\p3\source\RSAEncryptionTester\obj\Debug\EncryptionTester.csproj.CopyComplete
+C:\Users\Yevhe\OneDrive\Desktop\Навчання\Семестр VI\Системи безпеки\Заказ-полный-id-1715-716 (1)\p3\source\RSAEncryptionTester\obj\Debug\RSAEncryptionTester.exe
+C:\Users\Yevhe\OneDrive\Desktop\Навчання\Семестр VI\Системи безпеки\Заказ-полный-id-1715-716 (1)\p3\source\RSAEncryptionTester\obj\Debug\RSAEncryptionTester.pdb

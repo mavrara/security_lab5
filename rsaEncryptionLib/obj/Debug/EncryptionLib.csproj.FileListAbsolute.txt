@@ -1,0 +1,16 @@
+E:\Work\АК1422\source\RSAEncryptionLib\bin\Debug\RSAEncryptionLib.dll
+E:\Work\АК1422\source\RSAEncryptionLib\bin\Debug\RSAEncryptionLib.pdb
+E:\Work\АК1422\source\RSAEncryptionLib\obj\Debug\EncryptionLib.csprojResolveAssemblyReference.cache
+E:\Work\АК1422\source\RSAEncryptionLib\obj\Debug\RSAEncryptionLib.dll
+E:\Work\АК1422\source\RSAEncryptionLib\obj\Debug\RSAEncryptionLib.pdb
+E:\Nauka5\NEWEST\id-1715-716\p3\source\RSAEncryptionLib\bin\Debug\RSAEncryptionLib.dll
+E:\Nauka5\NEWEST\id-1715-716\p3\source\RSAEncryptionLib\bin\Debug\RSAEncryptionLib.pdb
+E:\Nauka5\NEWEST\id-1715-716\p3\source\RSAEncryptionLib\obj\Debug\EncryptionLib.csproj.CoreCompileInputs.cache
+E:\Nauka5\NEWEST\id-1715-716\p3\source\RSAEncryptionLib\obj\Debug\RSAEncryptionLib.dll
+E:\Nauka5\NEWEST\id-1715-716\p3\source\RSAEncryptionLib\obj\Debug\RSAEncryptionLib.pdb
+C:\Users\Yevhe\OneDrive\Desktop\Навчання\Семестр VI\Системи безпеки\Заказ-полный-id-1715-716 (1)\p3\source\RSAEncryptionLib\bin\Debug\RSAEncryptionLib.dll
+C:\Users\Yevhe\OneDrive\Desktop\Навчання\Семестр VI\Системи безпеки\Заказ-полный-id-1715-716 (1)\p3\source\RSAEncryptionLib\bin\Debug\RSAEncryptionLib.pdb
+C:\Users\Yevhe\OneDrive\Desktop\Навчання\Семестр VI\Системи безпеки\Заказ-полный-id-1715-716 (1)\p3\source\RSAEncryptionLib\obj\Debug\EncryptionLib.csproj.AssemblyReference.cache
+C:\Users\Yevhe\OneDrive\Desktop\Навчання\Семестр VI\Системи безпеки\Заказ-полный-id-1715-716 (1)\p3\source\RSAEncryptionLib\obj\Debug\EncryptionLib.csproj.CoreCompileInputs.cache
+C:\Users\Yevhe\OneDrive\Desktop\Навчання\Семестр VI\Системи безпеки\Заказ-полный-id-1715-716 (1)\p3\source\RSAEncryptionLib\obj\Debug\RSAEncryptionLib.dll
+C:\Users\Yevhe\OneDrive\Desktop\Навчання\Семестр VI\Системи безпеки\Заказ-полный-id-1715-716 (1)\p3\source\RSAEncryptionLib\obj\Debug\RSAEncryptionLib.pdb

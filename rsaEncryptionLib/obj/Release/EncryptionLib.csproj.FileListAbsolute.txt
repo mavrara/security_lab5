@@ -1,0 +1,5 @@
+E:\Nauka5\NEWEST\id-1715-716\p3\source\RSAEncryptionLib\bin\Release\RSAEncryptionLib.dll
+E:\Nauka5\NEWEST\id-1715-716\p3\source\RSAEncryptionLib\bin\Release\RSAEncryptionLib.pdb
+E:\Nauka5\NEWEST\id-1715-716\p3\source\RSAEncryptionLib\obj\Release\EncryptionLib.csproj.CoreCompileInputs.cache
+E:\Nauka5\NEWEST\id-1715-716\p3\source\RSAEncryptionLib\obj\Release\RSAEncryptionLib.dll
+E:\Nauka5\NEWEST\id-1715-716\p3\source\RSAEncryptionLib\obj\Release\RSAEncryptionLib.pdb

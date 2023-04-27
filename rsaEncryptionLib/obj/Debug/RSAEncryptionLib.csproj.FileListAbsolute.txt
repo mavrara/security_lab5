@@ -1,0 +1,8 @@
+E:\Work\СК547\RSAExtensions\z\RSAEncryptionLib\bin\Debug\RSAEncryptionLib.dll
+E:\Work\СК547\RSAExtensions\z\RSAEncryptionLib\bin\Debug\RSAEncryptionLib.pdb
+E:\Work\СК547\RSAExtensions\z\RSAEncryptionLib\obj\Debug\RSAEncryptionLib.dll
+E:\Work\СК547\RSAExtensions\z\RSAEncryptionLib\obj\Debug\RSAEncryptionLib.pdb
+E:\Work\СК547\zadanie2\RSAEncryptionLib\bin\Debug\RSAEncryptionLib.dll
+E:\Work\СК547\zadanie2\RSAEncryptionLib\bin\Debug\RSAEncryptionLib.pdb
+E:\Work\СК547\zadanie2\RSAEncryptionLib\obj\Debug\RSAEncryptionLib.dll
+E:\Work\СК547\zadanie2\RSAEncryptionLib\obj\Debug\RSAEncryptionLib.pdb
